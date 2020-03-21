@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/16834_hand_v1_NEW.obj-485b31a1745f4ee09de3165ca322a11d.mesh"
+
+[deps]
+
+files=[ "res://.import/16834_hand_v1_NEW.obj-485b31a1745f4ee09de3165ca322a11d.mesh" ]
+
+source_file="res://hand_v1_L1.123c8a068500-0e0b-4d25-a1e4-f75b7a12ee9d/16834_hand_v1_NEW.obj"
+dest_files=[ "res://.import/16834_hand_v1_NEW.obj-485b31a1745f4ee09de3165ca322a11d.mesh", "res://.import/16834_hand_v1_NEW.obj-485b31a1745f4ee09de3165ca322a11d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

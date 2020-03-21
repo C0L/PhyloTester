@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Hexagonator.obj-b6f9ac46eff0d6aaaca5a63a2baedba2.mesh"
+
+[deps]
+
+files=[ "res://.import/Hexagonator.obj-b6f9ac46eff0d6aaaca5a63a2baedba2.mesh" ]
+
+source_file="res://Hexagonator.obj"
+dest_files=[ "res://.import/Hexagonator.obj-b6f9ac46eff0d6aaaca5a63a2baedba2.mesh", "res://.import/Hexagonator.obj-b6f9ac46eff0d6aaaca5a63a2baedba2.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
